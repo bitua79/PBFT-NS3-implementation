@@ -41,7 +41,7 @@ This project is a collaborative effort. Special thanks to:
 - Ailin Hasanpour [Github](https://github.com/AilinHasanpour)
 
 ## Acknowledgments
-I would like to express my gratitude to our professors and dear teaching assistant:
+I'd like to express my gratitude to our professors and dear teaching assistant:
 
 - Dr. Mohammad Allahbakhsh [Website](http://prof.um.ac.ir/allahbakhsh/) for their guidance.
 - Dr. Haleh Amintoosi [Website](http://prof.um.ac.ir/amintoosi/) for their insights.
