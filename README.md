@@ -1,6 +1,6 @@
 # PBFT-NS3-implementation
 ## Overview
-This project simulates the Practical Byzantine Fault Tolerance (PBFT) algorithm using the NS3 network simulator. It aims to provide insights into the performance and behavior of PBFT in distributed systems.
+This project simulates the Practical Byzantine Fault Tolerance (PBFT) algorithm using the NS3 network simulator. It aims to provide insights into the performance and behavior of PBFT in distributed systems. This project was developed as the final project for the Blockchain course.
 
 ## Installation
 #### 1. Follow the NS3 installation guide [here](https://www.nsnam.org/docs/release/3.29/tutorial/html/getting-started.html).
@@ -41,7 +41,7 @@ This project is a collaborative effort. Special thanks to:
 - Ailin Hasanpour [Github](https://github.com/AilinHasanpour)
 
 ## Acknowledgments
-I'd like to express my gratitude to our professors and dear teaching assistant:
+I would like to express my gratitude to our professors and dear teaching assistant:
 
 - Dr. Mohammad Allahbakhsh [Website](http://prof.um.ac.ir/allahbakhsh/) for their guidance.
 - Dr. Haleh Amintoosi [Website](http://prof.um.ac.ir/amintoosi/) for their insights.
