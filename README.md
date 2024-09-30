@@ -43,7 +43,7 @@ This project is a collaborative effort. Special thanks to:
 ## Acknowledgments
 I would like to express my gratitude to our professors and dear teaching assistant:
 
-- Dr. Mohammad Allahbakhsh [Website](http://prof.um.ac.ir/allahbakhsh/) for their guidance.
-- Dr. Haleh Amintoosi [Website](http://prof.um.ac.ir/amintoosi/) for their insights.
+- Professor Mohammad Allahbakhsh [Website](http://prof.um.ac.ir/allahbakhsh/) for their guidance.
+- Professor Haleh Amintoosi [Website](http://prof.um.ac.ir/amintoosi/) for their insights.
 - Sadegh Sobhani [Github](github.com/SadeghSohani) for template files.
 
